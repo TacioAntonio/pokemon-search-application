@@ -1,6 +1,6 @@
 # Pokemon search
 
-![Image](assets/images/classification.gif)
+![Image](assets/images/pokemon-search.gif)
 > A simple Android application to search for Pokémon using [PokéAPI](https://pokeapi.co)
 
 ## Como utilizar
